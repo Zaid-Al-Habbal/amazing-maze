@@ -1,0 +1,3 @@
+/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles/amazing-maze.dir
+/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles/edit_cache.dir
+/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles/rebuild_cache.dir

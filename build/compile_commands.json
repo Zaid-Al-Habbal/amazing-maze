@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build",
+  "command": "/usr/bin/c++  -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration -g -o CMakeFiles/amazing-maze.dir/src/main.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/main.cpp",
+  "file": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/main.cpp"
+},
+{
+  "directory": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build",
+  "command": "/usr/bin/cc  -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration -g -o CMakeFiles/amazing-maze.dir/src/glad.c.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/glad.c",
+  "file": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/glad.c"
+},
+{
+  "directory": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build",
+  "command": "/usr/bin/c++  -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration -g -o CMakeFiles/amazing-maze.dir/src/stb_image.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/stb_image.cpp",
+  "file": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/stb_image.cpp"
+}
+]

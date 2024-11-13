@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/amazing-maze.dir/src/main.cpp.o CMakeFiles/amazing-maze.dir/src/glad.c.o CMakeFiles/amazing-maze.dir/src/stb_image.cpp.o -o amazing-maze  -lglfw /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
