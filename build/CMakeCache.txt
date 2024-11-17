@@ -256,15 +256,6 @@ amazing-maze_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 amazing-maze_SOURCE_DIR:STATIC=/home/zaidalhabbal/Documents/OpenGL/amazing-maze
 
-//Value Computed by CMake
-openGL_project_BINARY_DIR:STATIC=/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build
-
-//Value Computed by CMake
-openGL_project_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-openGL_project_SOURCE_DIR:STATIC=/home/zaidalhabbal/Documents/OpenGL/amazing-maze
-
 
 ########################
 # INTERNAL cache entries

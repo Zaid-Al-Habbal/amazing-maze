@@ -1,4 +1,12 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/amazing-maze.dir/src/EBO.cpp.o"
+  "CMakeFiles/amazing-maze.dir/src/EBO.cpp.o.d"
+  "CMakeFiles/amazing-maze.dir/src/Texture.cpp.o"
+  "CMakeFiles/amazing-maze.dir/src/Texture.cpp.o.d"
+  "CMakeFiles/amazing-maze.dir/src/VAO.cpp.o"
+  "CMakeFiles/amazing-maze.dir/src/VAO.cpp.o.d"
+  "CMakeFiles/amazing-maze.dir/src/VBO.cpp.o"
+  "CMakeFiles/amazing-maze.dir/src/VBO.cpp.o.d"
   "CMakeFiles/amazing-maze.dir/src/glad.c.o"
   "CMakeFiles/amazing-maze.dir/src/glad.c.o.d"
   "CMakeFiles/amazing-maze.dir/src/main.cpp.o"

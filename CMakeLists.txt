@@ -27,6 +27,6 @@ foreach(SHADER ${SHADERS})
 file(COPY ${SHADER} DESTINATION ${CMAKE_SOURCE_DIR}/bin)
 endforeach(SHADER)
 
-add_executable(amazing-maze src/main.cpp src/glad.c src/stb_image.cpp ${SHADERS})
+add_executable(amazing-maze src/main.cpp src/glad.c src/stb_image.cpp ${SHADERS} src/VAO.cpp src/VBO.cpp src/EBO.cpp src/Texture.cpp)
 
 target_link_libraries(amazing-maze glfw OpenGL::GL)

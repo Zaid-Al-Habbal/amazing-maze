@@ -111,11 +111,71 @@ CMakeFiles/amazing-maze.dir/src/stb_image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/amazing-maze.dir/src/stb_image.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/stb_image.cpp -o CMakeFiles/amazing-maze.dir/src/stb_image.cpp.s
 
+CMakeFiles/amazing-maze.dir/src/VAO.cpp.o: CMakeFiles/amazing-maze.dir/flags.make
+CMakeFiles/amazing-maze.dir/src/VAO.cpp.o: ../src/VAO.cpp
+CMakeFiles/amazing-maze.dir/src/VAO.cpp.o: CMakeFiles/amazing-maze.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/amazing-maze.dir/src/VAO.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/amazing-maze.dir/src/VAO.cpp.o -MF CMakeFiles/amazing-maze.dir/src/VAO.cpp.o.d -o CMakeFiles/amazing-maze.dir/src/VAO.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VAO.cpp
+
+CMakeFiles/amazing-maze.dir/src/VAO.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/amazing-maze.dir/src/VAO.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VAO.cpp > CMakeFiles/amazing-maze.dir/src/VAO.cpp.i
+
+CMakeFiles/amazing-maze.dir/src/VAO.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/amazing-maze.dir/src/VAO.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VAO.cpp -o CMakeFiles/amazing-maze.dir/src/VAO.cpp.s
+
+CMakeFiles/amazing-maze.dir/src/VBO.cpp.o: CMakeFiles/amazing-maze.dir/flags.make
+CMakeFiles/amazing-maze.dir/src/VBO.cpp.o: ../src/VBO.cpp
+CMakeFiles/amazing-maze.dir/src/VBO.cpp.o: CMakeFiles/amazing-maze.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/amazing-maze.dir/src/VBO.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/amazing-maze.dir/src/VBO.cpp.o -MF CMakeFiles/amazing-maze.dir/src/VBO.cpp.o.d -o CMakeFiles/amazing-maze.dir/src/VBO.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VBO.cpp
+
+CMakeFiles/amazing-maze.dir/src/VBO.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/amazing-maze.dir/src/VBO.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VBO.cpp > CMakeFiles/amazing-maze.dir/src/VBO.cpp.i
+
+CMakeFiles/amazing-maze.dir/src/VBO.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/amazing-maze.dir/src/VBO.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VBO.cpp -o CMakeFiles/amazing-maze.dir/src/VBO.cpp.s
+
+CMakeFiles/amazing-maze.dir/src/EBO.cpp.o: CMakeFiles/amazing-maze.dir/flags.make
+CMakeFiles/amazing-maze.dir/src/EBO.cpp.o: ../src/EBO.cpp
+CMakeFiles/amazing-maze.dir/src/EBO.cpp.o: CMakeFiles/amazing-maze.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/amazing-maze.dir/src/EBO.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/amazing-maze.dir/src/EBO.cpp.o -MF CMakeFiles/amazing-maze.dir/src/EBO.cpp.o.d -o CMakeFiles/amazing-maze.dir/src/EBO.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/EBO.cpp
+
+CMakeFiles/amazing-maze.dir/src/EBO.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/amazing-maze.dir/src/EBO.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/EBO.cpp > CMakeFiles/amazing-maze.dir/src/EBO.cpp.i
+
+CMakeFiles/amazing-maze.dir/src/EBO.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/amazing-maze.dir/src/EBO.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/EBO.cpp -o CMakeFiles/amazing-maze.dir/src/EBO.cpp.s
+
+CMakeFiles/amazing-maze.dir/src/Texture.cpp.o: CMakeFiles/amazing-maze.dir/flags.make
+CMakeFiles/amazing-maze.dir/src/Texture.cpp.o: ../src/Texture.cpp
+CMakeFiles/amazing-maze.dir/src/Texture.cpp.o: CMakeFiles/amazing-maze.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/amazing-maze.dir/src/Texture.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/amazing-maze.dir/src/Texture.cpp.o -MF CMakeFiles/amazing-maze.dir/src/Texture.cpp.o.d -o CMakeFiles/amazing-maze.dir/src/Texture.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/Texture.cpp
+
+CMakeFiles/amazing-maze.dir/src/Texture.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/amazing-maze.dir/src/Texture.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/Texture.cpp > CMakeFiles/amazing-maze.dir/src/Texture.cpp.i
+
+CMakeFiles/amazing-maze.dir/src/Texture.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/amazing-maze.dir/src/Texture.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/Texture.cpp -o CMakeFiles/amazing-maze.dir/src/Texture.cpp.s
+
 # Object files for target amazing-maze
 amazing__maze_OBJECTS = \
 "CMakeFiles/amazing-maze.dir/src/main.cpp.o" \
 "CMakeFiles/amazing-maze.dir/src/glad.c.o" \
-"CMakeFiles/amazing-maze.dir/src/stb_image.cpp.o"
+"CMakeFiles/amazing-maze.dir/src/stb_image.cpp.o" \
+"CMakeFiles/amazing-maze.dir/src/VAO.cpp.o" \
+"CMakeFiles/amazing-maze.dir/src/VBO.cpp.o" \
+"CMakeFiles/amazing-maze.dir/src/EBO.cpp.o" \
+"CMakeFiles/amazing-maze.dir/src/Texture.cpp.o"
 
 # External object files for target amazing-maze
 amazing__maze_EXTERNAL_OBJECTS =
@@ -123,11 +183,15 @@ amazing__maze_EXTERNAL_OBJECTS =
 amazing-maze: CMakeFiles/amazing-maze.dir/src/main.cpp.o
 amazing-maze: CMakeFiles/amazing-maze.dir/src/glad.c.o
 amazing-maze: CMakeFiles/amazing-maze.dir/src/stb_image.cpp.o
+amazing-maze: CMakeFiles/amazing-maze.dir/src/VAO.cpp.o
+amazing-maze: CMakeFiles/amazing-maze.dir/src/VBO.cpp.o
+amazing-maze: CMakeFiles/amazing-maze.dir/src/EBO.cpp.o
+amazing-maze: CMakeFiles/amazing-maze.dir/src/Texture.cpp.o
 amazing-maze: CMakeFiles/amazing-maze.dir/build.make
 amazing-maze: /usr/lib/x86_64-linux-gnu/libGLX.so
 amazing-maze: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 amazing-maze: CMakeFiles/amazing-maze.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable amazing-maze"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable amazing-maze"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/amazing-maze.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

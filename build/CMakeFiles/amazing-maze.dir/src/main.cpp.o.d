@@ -628,4 +628,9 @@ CMakeFiles/amazing-maze.dir/src/main.cpp.o: \
  /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/stb_image.h \
  /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/filesystem.h \
  /home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration/root_directory.h \
- /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/camera.h
+ /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/camera.h \
+ /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/Texture.h \
+ /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/shader_s.h \
+ /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/VAO.h \
+ /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/VBO.h \
+ /home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes/VBO.h

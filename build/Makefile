@@ -129,6 +129,102 @@ amazing-maze/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/build
 .PHONY : amazing-maze/fast
 
+src/EBO.o: src/EBO.cpp.o
+.PHONY : src/EBO.o
+
+# target to build an object file
+src/EBO.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/EBO.cpp.o
+.PHONY : src/EBO.cpp.o
+
+src/EBO.i: src/EBO.cpp.i
+.PHONY : src/EBO.i
+
+# target to preprocess a source file
+src/EBO.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/EBO.cpp.i
+.PHONY : src/EBO.cpp.i
+
+src/EBO.s: src/EBO.cpp.s
+.PHONY : src/EBO.s
+
+# target to generate assembly for a file
+src/EBO.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/EBO.cpp.s
+.PHONY : src/EBO.cpp.s
+
+src/Texture.o: src/Texture.cpp.o
+.PHONY : src/Texture.o
+
+# target to build an object file
+src/Texture.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/Texture.cpp.o
+.PHONY : src/Texture.cpp.o
+
+src/Texture.i: src/Texture.cpp.i
+.PHONY : src/Texture.i
+
+# target to preprocess a source file
+src/Texture.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/Texture.cpp.i
+.PHONY : src/Texture.cpp.i
+
+src/Texture.s: src/Texture.cpp.s
+.PHONY : src/Texture.s
+
+# target to generate assembly for a file
+src/Texture.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/Texture.cpp.s
+.PHONY : src/Texture.cpp.s
+
+src/VAO.o: src/VAO.cpp.o
+.PHONY : src/VAO.o
+
+# target to build an object file
+src/VAO.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/VAO.cpp.o
+.PHONY : src/VAO.cpp.o
+
+src/VAO.i: src/VAO.cpp.i
+.PHONY : src/VAO.i
+
+# target to preprocess a source file
+src/VAO.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/VAO.cpp.i
+.PHONY : src/VAO.cpp.i
+
+src/VAO.s: src/VAO.cpp.s
+.PHONY : src/VAO.s
+
+# target to generate assembly for a file
+src/VAO.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/VAO.cpp.s
+.PHONY : src/VAO.cpp.s
+
+src/VBO.o: src/VBO.cpp.o
+.PHONY : src/VBO.o
+
+# target to build an object file
+src/VBO.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/VBO.cpp.o
+.PHONY : src/VBO.cpp.o
+
+src/VBO.i: src/VBO.cpp.i
+.PHONY : src/VBO.i
+
+# target to preprocess a source file
+src/VBO.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/VBO.cpp.i
+.PHONY : src/VBO.cpp.i
+
+src/VBO.s: src/VBO.cpp.s
+.PHONY : src/VBO.s
+
+# target to generate assembly for a file
+src/VBO.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/amazing-maze.dir/build.make CMakeFiles/amazing-maze.dir/src/VBO.cpp.s
+.PHONY : src/VBO.cpp.s
+
 src/glad.o: src/glad.c.o
 .PHONY : src/glad.o
 
@@ -210,6 +306,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... amazing-maze"
+	@echo "... src/EBO.o"
+	@echo "... src/EBO.i"
+	@echo "... src/EBO.s"
+	@echo "... src/Texture.o"
+	@echo "... src/Texture.i"
+	@echo "... src/Texture.s"
+	@echo "... src/VAO.o"
+	@echo "... src/VAO.i"
+	@echo "... src/VAO.s"
+	@echo "... src/VBO.o"
+	@echo "... src/VBO.i"
+	@echo "... src/VBO.s"
 	@echo "... src/glad.o"
 	@echo "... src/glad.i"
 	@echo "... src/glad.s"

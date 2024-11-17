@@ -13,5 +13,25 @@
   "directory": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build",
   "command": "/usr/bin/c++  -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration -g -o CMakeFiles/amazing-maze.dir/src/stb_image.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/stb_image.cpp",
   "file": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/stb_image.cpp"
+},
+{
+  "directory": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build",
+  "command": "/usr/bin/c++  -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration -g -o CMakeFiles/amazing-maze.dir/src/VAO.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VAO.cpp",
+  "file": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VAO.cpp"
+},
+{
+  "directory": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build",
+  "command": "/usr/bin/c++  -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration -g -o CMakeFiles/amazing-maze.dir/src/VBO.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VBO.cpp",
+  "file": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/VBO.cpp"
+},
+{
+  "directory": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build",
+  "command": "/usr/bin/c++  -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration -g -o CMakeFiles/amazing-maze.dir/src/EBO.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/EBO.cpp",
+  "file": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/EBO.cpp"
+},
+{
+  "directory": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build",
+  "command": "/usr/bin/c++  -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/includes -I/home/zaidalhabbal/Documents/OpenGL/amazing-maze/build/configuration -g -o CMakeFiles/amazing-maze.dir/src/Texture.cpp.o -c /home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/Texture.cpp",
+  "file": "/home/zaidalhabbal/Documents/OpenGL/amazing-maze/src/Texture.cpp"
 }
 ]
